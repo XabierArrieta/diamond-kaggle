@@ -28,13 +28,12 @@ Para conseguir mi objetivo, he seguido los siguientes pasos:
     - Random Forest Regressor
     - Linear Regression
     - Lasso
-    - Hist Gradient Boosting 
-    - Regressor
+    - Hist Gradient Boosting Regressor
     - Gradient Boosting Regressor
 
 Para poder ver los resultados puedes entrar en los notebooks de cada uno de los modelos utilizados.
 
-3. Resultados:
+1. Resultados:
    
    
   ![Resultados](/images/results.png)
