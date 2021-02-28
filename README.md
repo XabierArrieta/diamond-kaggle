@@ -33,7 +33,7 @@ Para conseguir mi objetivo, he seguido los siguientes pasos:
 
 Para poder ver los resultados puedes entrar en los notebooks de cada uno de los modelos utilizados.
 
-1. Resultados:
+3. Resultados:
    
    
   ![Resultados](/images/results.png)
